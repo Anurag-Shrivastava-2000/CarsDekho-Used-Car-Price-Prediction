@@ -7,3 +7,5 @@ ipykernel
 jupyterlab
 xgboost
 lightgbm
+streamlit
+flask
